@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ItemGroup>
+    <PackageReference Update="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
+    <PackageReference Update="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Update="Microsoft.EntityFrameworkCore" Version="7.0.11" />
+    <PackageReference Update="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.11" />
+    <PackageReference Update="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+    <PackageReference Update="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.11" />
+  </ItemGroup>
+</Project>
